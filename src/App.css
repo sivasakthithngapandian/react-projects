@@ -1,0 +1,21 @@
+.card{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  background-color: navy;
+  color: gold;
+  padding: 10px;
+  border-radius: 8px;
+}
+button{
+  padding: 10px;
+  border: 1px solid lightgray;
+  margin: 2px;
+}
+button:hover{
+  background-color: navy;
+  color: white;
+}
