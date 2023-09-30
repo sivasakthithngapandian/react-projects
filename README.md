@@ -1,3 +1,12 @@
+**Run in online compiler**
+https://stackblitz.com/github/sivasakthithngapandian/react-projects?file=src%2FApp.js
+
+if the below mentioned error was occured , install required dependicies in online.
+**Can't find package:web-vitals**
+If react is not defined error is occured add the below mentioned code  in App.js 
+**import React from 'react';**
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
